@@ -35,3 +35,4 @@ public class WalletPayment implements PaymentMethod, Refundable {
         System.out.println("Balance: " + balance);
     }
 }
+
