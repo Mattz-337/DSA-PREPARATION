@@ -1,6 +1,6 @@
 package com.lab.payroll.util;
 
-import com.lab.payroll.model.Employee;
+import com.lab.payroll.model.*;
 
 public class PayrollPrinter {
 
