@@ -19,7 +19,7 @@ public class LibraryService{
 
             double fine = b.calculateFine(daysLate);
 
-            System.out.println(item.giveId+" returned back. Fine= "+fine);
+            System.out.println(item.getId()+" returned back. Fine= "+fine);
         }
     }
 }

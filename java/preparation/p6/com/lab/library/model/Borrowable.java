@@ -1,6 +1,6 @@
 package com.lab.library.model;
 
-public class Borrowable extends LibraryItem{
+public interface Borrowable extends LibraryItem{
     boolean borrow(String memberId);
     void giveBack();
 
